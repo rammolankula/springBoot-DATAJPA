@@ -19,7 +19,7 @@ public interface Productrepo extends JpaRepository<Product,Integer> {
     List<Product> findByProductName(String productName);
     
    
-	/*it wil get the data which is Product vendor it is finded by the  product vendor */
+	/*it wil get the data which is Product vendor and we are getting the data by productVendor */
 	List<Product> findByProductVendor(String productVendor);
 	
     
