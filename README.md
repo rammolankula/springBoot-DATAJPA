@@ -1,6 +1,8 @@
 # Data-Jpa-spring-boot-
 Data jpa covered upto @Query
-## 1.All type of findBy methods implemented 
-## 2.@Query implemented upto native query
-## 3.Projections datajpa
-## 4.Non selection operations datajpa
+<pre>
+&#8594; 1.All type of findBy methods implemented 
+&#8594; 2.@Query implemented upto native query
+&#8594; 3.Projections datajpa
+&#8594; 4.Non selection operations datajpa
+</pre>
